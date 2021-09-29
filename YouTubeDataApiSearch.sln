@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeDataApiSearch.Standard", "YouTubeDataApiSearch.Standard/YouTubeDataApiSearch.Standard.csproj", "{b13b017a-f263-476c-833b-f9e4396ce58b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YouTubeDataApiSearch.Tests", "YouTubeDataApiSearch.Tests/YouTubeDataApiSearch.Tests.csproj", "{9e09edd4-a3b4-4513-8fd7-e4352eb07ef9}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {b13b017a-f263-476c-833b-f9e4396ce58b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {b13b017a-f263-476c-833b-f9e4396ce58b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {b13b017a-f263-476c-833b-f9e4396ce58b}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {b13b017a-f263-476c-833b-f9e4396ce58b}.Release|Any CPU.Build.0 = Release|Any CPU
+        {9e09edd4-a3b4-4513-8fd7-e4352eb07ef9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {9e09edd4-a3b4-4513-8fd7-e4352eb07ef9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {9e09edd4-a3b4-4513-8fd7-e4352eb07ef9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {9e09edd4-a3b4-4513-8fd7-e4352eb07ef9}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
